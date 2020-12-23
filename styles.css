@@ -1,0 +1,28 @@
+body{
+    background-color:rgb(237, 255, 205);
+    padding:50px
+}
+
+h2{
+    color: aliceblue;
+    font-size: 50px;
+    font-family: Oswald, sans-serif;
+    text-align: center;
+}
+
+h3{
+    color: aliceblue;
+    font-size: 25px;
+    font-family: Oswald, sans-serif;
+    text-align: center;
+}
+
+p {
+    font-family: Oswald, sans-serif;
+    text-align: center;
+}
+
+div {
+    background-color:rgb(78, 196, 146);
+    border:5px solid rgb(6, 116, 61);
+}
